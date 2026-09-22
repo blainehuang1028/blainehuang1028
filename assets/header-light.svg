@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+<title id="title">Hey, I'm Blaine.</title><desc id="desc">Small tools for subtitles, writing, and the Mac. Animated workflow illustration.</desc>
+<style>@media(prefers-reduced-motion:reduce){.signal{animation:none}} .signal{animation:travel 8s linear infinite} @keyframes travel{to{stroke-dashoffset:-160}}</style>
+<rect width="1000" height="300" rx="20" fill="#f6f8fa"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+<text x="44" y="53" fill="#137963" font-size="14" letter-spacing="3">HEYBLAINE / PERSONAL WORKSHOP</text>
+<text x="42" y="126" fill="#18283a" font-size="58" font-weight="700">Hey, I'm Blaine.</text>
+<text x="44" y="173" fill="#546779" font-size="21">Small tools for things I do every day.</text>
+<text x="44" y="251" fill="#137963" font-size="16">SUBTITLES  /  WRITING  /  MAC TOOLS</text>
+</g>
+<g fill="none" stroke="#137963" stroke-width="2">
+<rect x="700" y="64" width="244" height="172" rx="12" opacity=".3"/>
+<path d="M700 97h244" opacity=".3"/>
+<path d="M728 129h125m-125 22h78m-78 22h98" opacity=".65"/>
+<path class="signal" d="M725 209h192" stroke-dasharray="12 28"/>
+<rect x="861" y="132" width="52" height="49" rx="8"/>
+<path d="m875 157 8 8 17-20"/>
+</g><g fill="#137963"><circle cx="718" cy="81" r="3"/><circle cx="730" cy="81" r="3" opacity=".5"/><circle cx="742" cy="81" r="3" opacity=".25"/></g>
+</svg>
