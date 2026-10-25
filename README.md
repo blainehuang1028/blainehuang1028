@@ -10,15 +10,11 @@
   <a href="https://github.com/blainehuang1028?tab=repositories">Repositories</a>
 </p>
 
-做点小工具。围绕字幕、写作和 Mac 上的日常工作，把想法做成能用的东西。
-
 I build tools for subtitles, writing, and everyday work on the Mac.
 
 ## Selected projects
 
 ### [Subtitle Me](https://github.com/blainehuang1028/subtitle-me)
-
-把带时间轴的英文字幕译成简体中文，统一术语、对照审校，交付适合观看的中文字幕和双语 ASS。
 
 An Agent Skill for reviewed English-to-Chinese subtitles, with project glossaries and bilingual output.
 
@@ -26,15 +22,13 @@ An Agent Skill for reviewed English-to-Chinese subtitles, with project glossarie
 
 [Explore the project →](https://github.com/blainehuang1028/subtitle-me) · [Website](https://skills.heyblaine.com/subtitle-me/)
 
-### [Shotlane](https://github.com/blainehuang1028/shotlane-showcase)
-
-一个原生 Mac 截图工具，把截图、标注、OCR、取色和贴图参考放进同一套工作流程。
+### [SnipDone](https://github.com/blainehuang1028/snipdone-showcase)
 
 A native macOS capture workflow. The public showcase includes product screenshots and engineering notes.
 
 `macOS` · `Local OCR` · `Capture & annotation`
 
-[Product & engineering showcase →](https://github.com/blainehuang1028/shotlane-showcase)
+[Product & engineering showcase →](https://github.com/blainehuang1028/snipdone-showcase)
 
 ## A little activity
 
@@ -51,11 +45,9 @@ A native macOS capture workflow. The public showcase includes product screenshot
 <p align="center"><sub>Built from GitHub contribution data · refreshed daily</sub></p>
 
 <details>
-<summary>这些小动画是怎么做的？ / How these work</summary>
+<summary>How these animations work</summary>
 
-横幅是定制 SVG，贡献图由 GitHub Actions 每天生成。感谢 [snk](https://github.com/Platane/snk) 和 [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)。
-
-The banner is a custom animated SVG. GitHub Actions refreshes the contribution animations daily using the projects above.
+The banner is a custom animated SVG. GitHub Actions refreshes the contribution animations daily using [snk](https://github.com/Platane/snk) and [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib).
 
 </details>
 
